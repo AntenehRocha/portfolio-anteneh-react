@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Portfolio Anteneh Rocha</string>
+    <string name="title_activity_main">Portfolio Anteneh Rocha</string>
+    <string name="package_name">com.antenehrocha.portfolio</string>
+    <string name="custom_url_scheme">com.antenehrocha.portfolio</string>
+</resources>
